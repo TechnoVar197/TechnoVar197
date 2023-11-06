@@ -8,8 +8,6 @@
 
 - 💬 Basic understanding in the field of **python,C++,Artifical Intelligence and Machine Learning**
 
-- 📫 How to reach me **aniruddha.ponnuri@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ponnuri-aniruddha-129991249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TechnoVar-197" height="30" width="40" /></a>
@@ -26,6 +24,6 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoVar-197&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/RA2112704010015/RA2112704010015)|[![Nikhil's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=TechnoVar-197&theme=midnight-purple&hide_border=true)](https://github.com/TechnoVar-197)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoVar-197&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/RTechnoVar-197/TechnoVar-197)|[![Nikhil's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=TechnoVar-197&theme=midnight-purple&hide_border=true)](https://github.com/TechnoVar-197)
 |[![Statistics](https://github-readme-stats.vercel.app/api?username=TechnoVar-197&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/TechnoVar-197/TechnoVar-197)|
 
