@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring AI/Ml developer and Data Science engineer.</h3>
 <img align='right' alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechnoVar-197&label=Profile%20views&color=0e75b6&style=flat" alt="TechnoVar-197" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TechnoVar197&label=Profile%20views&color=0e75b6&style=flat" alt="TechnoVar197" /> </p>
 
 - 🌱 I’m currently learning **Data Science And ML**
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ponnuri-aniruddha-129991249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TechnoVar-197" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ponnuri-aniruddha-129991249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TechnoVar197" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aniruddhaponnuri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniruddha.ponnuri" height="30" width="40" /></a>
 <a href="https://leetcode.com/RA2112704010015/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RA2112704010015" height="30" width="40" /></a>
 </p>
@@ -24,6 +24,6 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoVar-197&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/RTechnoVar-197/TechnoVar-197)|[![Nikhil's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=TechnoVar-197&theme=midnight-purple&hide_border=true)](https://github.com/TechnoVar-197)
-|[![Statistics](https://github-readme-stats.vercel.app/api?username=TechnoVar-197&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/TechnoVar-197/TechnoVar-197)|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoVar197&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/RTechnoVar197/TechnoVar197)|[![Nikhil's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=TechnoVar197&theme=midnight-purple&hide_border=true)](https://github.com/TechnoVar197)
+|[![Statistics](https://github-readme-stats.vercel.app/api?username=TechnoVar197&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/TechnoVar197/TechnoVar197)|
 
