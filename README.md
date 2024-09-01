@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<h3 align="left">Connect with me:</h3> 
+<h1 align="left">Connect with me:</h1> 
 <p align="left">
   <a href="https://www.linkedin.com/in/ponnuri-aniruddha-129991249/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ponnuri aniruddha" height="30" width="40" />
