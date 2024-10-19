@@ -7,6 +7,7 @@
   <img align='right' alt="Coding" width="250" height="130" src="Pics/per.gif">
 <ul>
   <li>🌱 I’m currently learning Gen-AI and Android Development</li>
+  <li>🌱 I’m currently learning Data Science and Artifical Intelligence</li>
   <li>💬 Basic understanding in the field of Python, C++, Artificial Intelligence, and Machine Learning</li>
 </ul>
 
